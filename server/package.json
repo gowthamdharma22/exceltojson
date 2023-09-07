@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "tsc -w  dist/index.js",
+    "build": "tsc -p tsconfig.json -w",
+    "start": "concurrently \"tsc -w\" \"nodemon dist/index.js\""
+  },
+  "dependencies": {
+    "@fastify/autoload": "^5.7.1",
+    "@fastify/cors": "^8.3.0",
+    "@fastify/multipart": "^7.7.3",
+    "cors": "^2.8.5",
+    "exceljs": "^4.3.0",
+    "fastify": "^4.22.2",
+    "form-auto-content": "^3.2.0",
+    "nodemon": "^3.0.1",
+    "tap": "^16.3.8",
+    "xlsx-populate": "^1.21.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/node": "^20.5.7",
+    "concurrently": "^8.2.1",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,8 @@
+###
+POST http://127.0.0.1:8081/upload 
+Content-Type: application/json
+{
+    "mainFile": "content-services",
+    "jsonFile": "hotes.json",
+    "methodName": "update"
+}

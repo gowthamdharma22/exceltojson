@@ -1,0 +1,18 @@
+{
+  "create": {
+    "dbkey1": ["dcd", "dscdsc", "dscdsc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc"],
+    "dbkey2": ["dcd", "dscdsc", "dscdsc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc"],
+    "dbkey3": ["dcsdsc", "dscds", "csdc", "dscsdcsdc", "sdcdsc", "sdcsdcsd", "csdcsdc", "sdcsdcsd"],
+    "dbkey4": ["dcd", "dscdsc", "dscdsc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc"],
+    "dbkey5": ["dcsdsc", "dscds", "csdc", "dscsdcsdc", "sdcdsc", "sdcsdcsd", "csdcsdc", "sdcsdcsd"],
+    "dbkey6": ["cdcsd", "dcsd", "csdc", "sdsd", "dc", "dscsdcsdc", "summa", "d"]
+  },
+  "update": {
+    "dbkey1": "sdchcbjsd",
+    "dbkey2": ["dcd", "dscdsc", "dscdsc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc"],
+    "dbkey3": ["dcsdsc", "dscds", "csdc", "dscsdcsdc", "sdcdsc", "sdcsdcsd", "csdcsdc", "sdcsdcsd"],
+    "dbkey4": ["dcd", "dscdsc", "dscdsc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc", "sdcsdc"],
+    "dbkey5": ["dcsdsc", "dscds", "csdc", "dscsdcsdc", "sdcdsc", "sdcsdcsd", "csdcsdc", "sdcsdcsd"],
+    "dbkey6": ["cdcsd", "dcsd", "csdc", "sdsd", "dc", "dscsdcsdc", "summa", "d"]
+  }
+}
